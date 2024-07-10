@@ -1,0 +1,2 @@
+ALTER TABLE participants
+MODIFY COLUMN trip_id ON DELETE CASCADE;
