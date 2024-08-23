@@ -1,1 +1,6 @@
-Projeto onde crio uma API para um sistema de gerenciamento de viagens, com opção de criação de viagens(crud completo) e convite de convidados(crud completo).
+#Planner
+
+##Sobre o Planner
+O Planner é uma aplicação desenvolvida por meio do curso da Rocketseat e consiste em uma API de gerenciamento de viagens(trips). Onde é possível cadastrar viagens, convidar participantes, marcar atividades etc.
+
+##Ferramentas utilizadas
